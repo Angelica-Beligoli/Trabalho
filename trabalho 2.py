@@ -17,8 +17,8 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 
 # Carrega os ativos
-player_img = pygame.image.load('assets/player.png')
-enemy_img = pygame.image.load('assets/enemy.png')
+player_img = pygame.image.load('player.png')
+enemy_img = pygame.image.load('enemy.png')
 
 # Classe do Jogador
 class Player:
